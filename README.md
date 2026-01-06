@@ -105,6 +105,11 @@ sentiment-analysis/
 
 ---
 
+## 🌍 Live Demo
+
+👉 **Try the app here:**  
+https://sentimental-analysis-web-app-tkkkd46shknzljfspmolhf.streamlit.app/
+
 ## 📈 Model Performance
 
 - Accuracy: **~88–90%**
